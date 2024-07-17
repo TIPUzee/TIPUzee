@@ -10,7 +10,7 @@ I'm a passionate developer and a student at [GIMS PMAS Arid Agriculture Universi
 
 ## Projects
 ### 1. Smart Phone Comparison System
-A comprehensive project using Python, Flask, Selenium, and Bootstrap. It allows users to compare different smartphones based on benchmarks from sites like [AnTuTu](https://www.antutu.com), [Geekbench](https://www.geekbench.com), and [DxOMark](https://www.dxomark.com). The system automatically grabs data from these websites and provides detailed comparisons, helping users decide which phone suits their needs. Users can also prioritize different components like processing power or camera quality.
+A comprehensive project using Python, Flask, Selenium, and Bootstrap. It allows users to compare different smartphones based on benchmarks from sites like [AnTuTu](https://www.antutu.com), [Geekbench](https://www.geekbench.com), and [DxOMark](https://www.dxomark.com). The system automatically grabs data from these websites and provides detailed comparisons, helping users decide which phone suits their needs. Users can also prioritize different components like processing power, rear camera quality, selfie camera quality, battery or display etc.
 
 ### 2. OpportunityHub
 A job-finding web application developed using Python, Flask, and Bootstrap. This platform allows admins to upload text files containing questions and multiple-choice questions (MCQs) with correct answers. Users can take tests and earn badges for their profiles, enhancing their job search experience.
