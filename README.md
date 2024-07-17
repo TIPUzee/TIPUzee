@@ -13,9 +13,10 @@ I'm a passionate developer and a student at [GIMS PMAS Arid Agriculture Universi
 ### 1. AI-Disease Predictor `(My Final Year Project)`
 An integrated healthcare platform aimed at revolutionizing patient care and diagnosis by combining artificial intelligence and medical expertise. Key functionalities include:
 - Symptom-based disease prediction with AI-driven potential diagnoses.
-- Brain tumor detection through MRI analysis using a sophisticated machine learning algorithm.
+- Brain tumor detection and classification through MRI analysis using a sophisticated machine learning algorithm.
 - Doctor-patient interaction features, including appointment scheduling and communication through WhatsApp.
 - Comprehensive management tools for administrators to handle patient and doctor databases, appointment tracking, and system analytics.
+- Stripe payment gateway for patient's to pay to book appointments with selected doctors on a specific time slot.
 
 ### 2. Smart Phone Comparison System
 A comprehensive project using Python, Flask, Selenium, and Bootstrap. It allows users to compare different smartphones based on benchmarks from sites like [AnTuTu](https://www.antutu.com), [Geekbench](https://www.geekbench.com), and [DxOMark](https://www.dxomark.com). The system automatically grabs data from these websites and provides detailed comparisons, helping users decide which phone suits their needs. Users can also prioritize different components like processing power, rear camera quality, selfie camera quality, battery or display etc.
