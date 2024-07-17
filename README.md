@@ -2,6 +2,9 @@
 
 I'm a passionate developer and a student at [GIMS PMAS Arid Agriculture University](http://www.gims.edu.pk/) Pakistan. I have a strong foundation in backend and frontend technologies, and I am currently diving into the world of machine learning in Python. Below is a summary of my skills, projects, and what I am currently working on.
 
+## About Me
+I am a dedicated software developer with a keen interest in creating innovative solutions to complex problems. My journey in programming began [X years] ago, and I have since developed a diverse skill set in various technologies. I am enthusiastic about learning new tools and technologies to stay at the forefront of the industry.
+
 ## Skills
 - **Languages & Frameworks:** Python, Flask, Selenium, C++, JavaScript, PHP
 - **Databases:** MongoDB, MySQL
@@ -18,13 +21,16 @@ An integrated healthcare platform aimed at revolutionizing patient care and diag
 - Comprehensive management tools for administrators to handle patient and doctor databases, appointment tracking, and system analytics.
 - Stripe payment gateway for patient's to pay to book appointments with selected doctors on a specific time slot.
 
-### 2. Smart Phone Comparison System
+### 2. Skills Seekho
+I developed the complete frontend and backend for [Skills Seekho](https://www.skillsseekho.com), a skills learning platform for students in Pakistan, while working from home for a company located in Lahore. I handled the server and other related tasks, and integrated the [PayFast gateway](https://gopayfast.com/) for students to pay and purchase courses. I also developed APIs for mobile apps to use the same backend server.
+
+### 3. Smart Phone Comparison System
 A comprehensive project using Python, Flask, Selenium, and Bootstrap. It allows users to compare different smartphones based on benchmarks from sites like [AnTuTu](https://www.antutu.com), [Geekbench](https://www.geekbench.com), and [DxOMark](https://www.dxomark.com). The system automatically grabs data from these websites and provides detailed comparisons, helping users decide which phone suits their needs. Users can also prioritize different components like processing power, rear camera quality, selfie camera quality, battery or display etc.
 
-### 3. Opportunity Hub
+### 4. Opportunity Hub
 A job-finding web application developed using Python, Flask, and Bootstrap. This platform allows companies to post available jobs, and allows jobseekers to apply on these jobs, and also managing their profiles. This platform also allows admins to upload text files containing questions and multiple-choice questions (MCQs) with correct answers. Users can take tests and earn badges for their profiles, enhancing their job search experience.
 
-### 4. Automated Timetable Generator
+### 5. Automated Timetable Generator
 One of my early projects in C++, this tool generates timetables while solving challenges like avoiding overlapping classroom allocations, ensuring specific lecture allocations for batches and teachers, and optimizing the overall schedule efficiently.
 
 ## Competitions
