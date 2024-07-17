@@ -30,4 +30,4 @@ One of my early projects in C++, this tool generates timetables while solving ch
 I am actively learning and working on machine learning projects in Python. I am excited to integrate ML solutions into my future projects and contribute to innovative tech solutions.
 
 ## Get in Touch
-Feel free to reach out to me on [LinkedIn](your-linkedin-profile) or via email at your-email@example.com. Let's connect and collaborate on exciting projects!
+Feel free to reach out to me on [LinkedIn](your-linkedin-profile) or via email at zshann992@gmail.com. Let's connect and collaborate on exciting projects!
