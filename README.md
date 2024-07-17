@@ -21,7 +21,7 @@ An integrated healthcare platform aimed at revolutionizing patient care and diag
 ### 2. Smart Phone Comparison System
 A comprehensive project using Python, Flask, Selenium, and Bootstrap. It allows users to compare different smartphones based on benchmarks from sites like [AnTuTu](https://www.antutu.com), [Geekbench](https://www.geekbench.com), and [DxOMark](https://www.dxomark.com). The system automatically grabs data from these websites and provides detailed comparisons, helping users decide which phone suits their needs. Users can also prioritize different components like processing power, rear camera quality, selfie camera quality, battery or display etc.
 
-### 3. OpportunityHub
+### 3. Opportunity Hub
 A job-finding web application developed using Python, Flask, and Bootstrap. This platform allows companies to post available jobs, and allows jobseekers to apply on these jobs, and also managing their profiles. This platform also allows admins to upload text files containing questions and multiple-choice questions (MCQs) with correct answers. Users can take tests and earn badges for their profiles, enhancing their job search experience.
 
 ### 4. Automated Timetable Generator
