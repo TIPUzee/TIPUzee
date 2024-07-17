@@ -27,6 +27,12 @@ A job-finding web application developed using Python, Flask, and Bootstrap. This
 ### 4. Automated Timetable Generator
 One of my early projects in C++, this tool generates timetables while solving challenges like avoiding overlapping classroom allocations, ensuring specific lecture allocations for batches and teachers, and optimizing the overall schedule efficiently.
 
+## Competitions
+I have actively participated in speed programming competitions, showcasing my problem-solving skills and competitive spirit:
+1. In 2022, my university professor encouraged me to participate in the speed programming competition at GIMS PMAS Arid Agriculture University. Despite competing against students with 3 to 4 years of programming experience, I secured the runner-up position with only one year of experience.
+2. I was selected to represent my university at the main campus, PMAS Arid Agriculture University Rawalpindi, for another speed programming competition. Competing against top students from various campuses, I once again achieved the runner-up position.
+3. To continually improve my problem-solving skills, I regularly solve programming questions on LeetCode, which helps me stay sharp and prepared for future challenges.
+
 ## Currently Learning
 I am actively learning and working on machine learning projects in Python. I am excited to integrate ML solutions into my future projects and contribute to innovative tech solutions.
 
