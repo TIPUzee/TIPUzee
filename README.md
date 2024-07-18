@@ -29,7 +29,7 @@ An integrated healthcare platform aimed at revolutionizing patient care and diag
 - [Stripe](https://stripe.com/) payment gateway for patient's to pay to book appointments with selected doctors on a specific time slot.
 
 #### 2. Skills Seekho
-I developed the complete frontend and backend for [Skills Seekho](https://www.skillsseekho.com), a skills learning platform for students in Pakistan, while working from home for a company located in Lahore. I handled the server and other related tasks, and integrated the [PayFast gateway](https://gopayfast.com/) for students to pay and purchase courses. I also developed APIs for mobile apps to use the same backend server.
+I developed the complete frontend and backend for [Skills Seekho](https://www.skillsseekho.com), a skills learning platform for students in Pakistan, while working from home for a company located in Lahore. I handled the server and other related tasks, and integrated the [PayFast payment gateway](https://gopayfast.com/) for students to pay and purchase courses. I also developed APIs for mobile apps to use the same backend server.
 
 #### 3. Smart Phone Comparison System
 A comprehensive project using Python, Flask, Selenium, and Bootstrap. It allows users to compare different smartphones based on benchmarks from sites like [AnTuTu](https://www.antutu.com), [Geekbench](https://www.geekbench.com), and [DxOMark](https://www.dxomark.com). The system automatically grabs data from these websites and provides detailed comparisons, helping users decide which phone suits their needs. Users can also prioritize different components like processing power, rear camera quality, selfie camera quality, battery or display etc.
@@ -61,7 +61,7 @@ I completed a 3-month internship at CyberCilo, a cyber security solution softwar
 I worked as a web frontend and backend developer at SkillsSeekho, a skills learning platform, via work from home. I handled all project complexities and served as the main guide and consultant for clients related to technical issues. My responsibilities included:
 - Developing the complete frontend and backend of the platform
 - Handling server management and related tasks
-- Integrating the [PayFast](https://gopayfast.com/) payment gateway for course purchases
+- Integrating the [PayFast payment gateway](https://gopayfast.com/) for course purchases
 
 ## Currently Learning
 I am actively learning and working on machine learning projects in Python. I am excited to integrate ML solutions into my future projects and contribute to innovative tech solutions.
