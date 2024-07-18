@@ -13,7 +13,7 @@ I am a dedicated software developer with a keen interest in creating innovative 
 - **Machine Learning:** Currently learning and working on ML projects in Python
 
 ## Education
-- **Degree:** Bachelor of Science in Computer Science
+- **Degree:** Bachelor of Science in Information Technology
 - **Institution:** GIMS PMAS Arid Agriculture University Pakistan
 - **Year:** Expected Graduation: 2024
 - **Relevant Coursework:** Machine Learning, Data Structures, Algorithms, Web Development
@@ -45,6 +45,22 @@ I have actively participated in speed programming competitions, showcasing my pr
 1. In 2022, my university professor encouraged me to participate in the speed programming competition at GIMS PMAS Arid Agriculture University. Despite competing against students with 3 to 4 years of programming experience, I secured the runner-up position with only one year of experience.
 2. I was selected to represent my university at the main campus, [PMAS Arid Agriculture University Rawalpindi](https://www.uaar.edu.pk/index.php), for another speed programming competition. Competing against top students from various campuses, I once again achieved the runner-up position.
 3. To continually improve my problem-solving skills, I regularly solve programming questions on [LeetCode](https://www.leetcode.com), which helps me stay sharp and prepared for future challenges.
+
+### Freelance Developer
+I have been freelancing for universities abroad, handling complex assignments and projects, including:
+- C++ complex assignments
+- Web designs
+- Python projects
+- Python Tkinter projects
+
+### CyberCilo Internship
+I completed a 3-month internship at CyberCilo, a cyber security solution software house founded by my university professor. As a Python backend developer, I worked on a project named "Web Defacement." This web-based project monitors websites, scrapes their complete data using Selenium WebDriver in Python, and raises alerts for unwanted or unethical changes. During this internship, I gained significant experience working with Ubuntu.
+
+### SkillsSeekho Developer
+I worked as a web frontend and backend developer at SkillsSeekho, a skills learning platform, via work from home. I handled all project complexities and served as the main guide and consultant for clients related to technical issues. My responsibilities included:
+- Developing the complete frontend and backend of the platform
+- Handling server management and related tasks
+- Integrating the PayFast payment gateway for course purchases
 
 ## Currently Learning
 I am actively learning and working on machine learning projects in Python. I am excited to integrate ML solutions into my future projects and contribute to innovative tech solutions.
