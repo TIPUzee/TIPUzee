@@ -9,7 +9,14 @@ I am a dedicated software developer with a keen interest in creating innovative 
 - **Languages & Frameworks:** Python, Flask, Selenium, C++, JavaScript, PHP
 - **Databases:** MongoDB, MySQL
 - **Frontend Technologies:** Tailwind CSS, Bootstrap, Angular, jQuery
+- **Operating Systems:** Strong 1 year of experience in Linux Ubuntu
 - **Machine Learning:** Currently learning and working on ML projects in Python
+
+## Education
+- **Degree:** Bachelor of Science in Computer Science
+- **Institution:** GIMS PMAS Arid Agriculture University Pakistan
+- **Year:** Expected Graduation: 2024
+- **Relevant Coursework:** Machine Learning, Data Structures, Algorithms, Web Development
 
 ## Projects
 
