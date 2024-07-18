@@ -55,7 +55,7 @@ I have been freelancing for universities abroad, handling complex assignments an
 - Python Tkinter projects
 
 ### CyberCilo Internship
-I completed a 3-month internship at CyberCilo, a cyber security solution software house founded by my university professor. As a Python backend developer, I worked on a project named "Web Defacement." This web-based project monitors websites, scrapes their complete data using Selenium WebDriver in Python, and raises alerts for unwanted or unethical changes. During this internship, I gained significant experience working with Ubuntu.
+I completed a 3-month internship at CyberCilo, a cybersecurity product development company. As a Python backend developer, I worked on a project named "Web Defacement." This web-based project monitors websites, scrapes their complete data using Selenium WebDriver in Python, and raises alerts for unwanted or unethical changes. During this internship, I gained significant experience working with Ubuntu.
 
 ### [SkillsSeekho](https://www.skillsseekho.com) Developer
 I worked as a web frontend and backend developer at SkillsSeekho, a skills learning platform, via work from home. I handled all project complexities and served as the main guide and consultant for clients related to technical issues. My responsibilities included:
