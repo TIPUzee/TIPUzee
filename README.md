@@ -46,6 +46,7 @@ I have actively participated in speed programming competitions, showcasing my pr
 2. I was selected to represent my university at the main campus, [PMAS Arid Agriculture University Rawalpindi](https://www.uaar.edu.pk/index.php), for another speed programming competition. Competing against top students from various campuses, I once again achieved the runner-up position.
 3. To continually improve my problem-solving skills, I regularly solve programming questions on [LeetCode](https://www.leetcode.com), which helps me stay sharp and prepared for future challenges.
 
+## Work Experience
 ### Freelance Developer
 I have been freelancing for universities abroad, handling complex assignments and projects, including:
 - C++ complex assignments
