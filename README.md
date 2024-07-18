@@ -61,7 +61,7 @@ I completed a 3-month internship at CyberCilo, a cyber security solution softwar
 I worked as a web frontend and backend developer at SkillsSeekho, a skills learning platform, via work from home. I handled all project complexities and served as the main guide and consultant for clients related to technical issues. My responsibilities included:
 - Developing the complete frontend and backend of the platform
 - Handling server management and related tasks
-- Integrating the PayFast payment gateway for course purchases
+- Integrating the [PayFast](https://gopayfast.com/) payment gateway for course purchases
 
 ## Currently Learning
 I am actively learning and working on machine learning projects in Python. I am excited to integrate ML solutions into my future projects and contribute to innovative tech solutions.
