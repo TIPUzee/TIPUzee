@@ -19,7 +19,7 @@ An integrated healthcare platform aimed at revolutionizing patient care and diag
 - Brain tumor detection and classification through MRI analysis using a sophisticated machine learning algorithm.
 - Doctor-patient interaction features, including appointment scheduling and communication through WhatsApp.
 - Comprehensive management tools for administrators to handle patient and doctor databases, appointment tracking, and system analytics.
-- Stripe payment gateway for patient's to pay to book appointments with selected doctors on a specific time slot.
+- [Stripe](https://stripe.com/) payment gateway for patient's to pay to book appointments with selected doctors on a specific time slot.
 
 #### 2. Skills Seekho
 I developed the complete frontend and backend for [Skills Seekho](https://www.skillsseekho.com), a skills learning platform for students in Pakistan, while working from home for a company located in Lahore. I handled the server and other related tasks, and integrated the [PayFast gateway](https://gopayfast.com/) for students to pay and purchase courses. I also developed APIs for mobile apps to use the same backend server.
