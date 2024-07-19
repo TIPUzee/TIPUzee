@@ -21,8 +21,8 @@ I am a dedicated software developer with a keen interest in creating innovative 
 
 ## Projects
 
-#### 1. [AI-Disease Predictor](http://ec2-3-15-33-202.us-east-2.compute.amazonaws.com/home) `(My Final Year Project)`
-An [integrated healthcare platform](http://ec2-3-15-33-202.us-east-2.compute.amazonaws.com/home) aimed at revolutionizing patient care and diagnosis by combining artificial intelligence and medical expertise. Key functionalities include:
+#### 1. [AI-Disease Predictor](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home) `(My Final Year Project)`
+An [integrated healthcare platform](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home) aimed at revolutionizing patient care and diagnosis by combining artificial intelligence and medical expertise. Key functionalities include:
 - Symptom-based disease prediction with AI-driven potential diagnoses.
 - Brain tumor detection and classification through MRI analysis using a sophisticated machine learning algorithm.
 - Doctor-patient interaction features, including appointment scheduling and communication through WhatsApp.
