@@ -21,7 +21,7 @@ I am a dedicated software developer with a keen interest in creating innovative 
 
 ## Projects
 
-#### 1. AI-Disease Predictor `(My Final Year Project)`
+#### 1. [AI-Disease Predictor](http://ec2-18-221-164-243.us-east-2.compute.amazonaws.com/home) `(My Final Year Project)`
 An integrated healthcare platform aimed at revolutionizing patient care and diagnosis by combining artificial intelligence and medical expertise. Key functionalities include:
 - Symptom-based disease prediction with AI-driven potential diagnoses.
 - Brain tumor detection and classification through MRI analysis using a sophisticated machine learning algorithm.
