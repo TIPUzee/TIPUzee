@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+
 # Hi there, I'm Zeeshan! 👋
 
 I'm a passionate developer and a student at [GIMS PMAS Arid Agriculture University](http://www.gims.edu.pk/) Pakistan. I have a strong foundation in backend and frontend technologies, and I am currently diving into the world of machine learning in Python. Below is a summary of my skills, projects, and what I am currently working on.
@@ -21,7 +23,7 @@ I am a dedicated software developer with a keen interest in creating innovative 
 
 ## Projects
 
-#### 1. [AI-Disease Predictor](http://ec2-18-221-164-243.us-east-2.compute.amazonaws.com/home) `(My Final Year Project)`
+#### 1. [AI-Disease Predictor](http://ec2-18-221-164-243.us-east-2.compute.amazonaws.com/home) `(My Final Year Project)` <img src="fa-crown.svg" width="50" height="50">
 An integrated healthcare platform aimed at revolutionizing patient care and diagnosis by combining artificial intelligence and medical expertise. Key functionalities include:
 - Symptom-based disease prediction with AI-driven potential diagnoses.
 - Brain tumor detection and classification through MRI analysis using a sophisticated machine learning algorithm.
