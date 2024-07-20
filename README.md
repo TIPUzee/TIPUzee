@@ -1,5 +1,6 @@
 # Hi there, I'm Zeeshan! 👋
-
+A developer sharing his coding adventures ❤️
+Fresh Graduate at [GIMS Arid Agriculture Univeristy](http://www.gims.edu.pk/) Pakistan  **|**  Frontend Developer  **|**  Backend Developer
 A recent graduate at [GIMS PMAS Arid Agriculture University](http://www.gims.edu.pk/) Pakistan  **|**  Strong foundation in backend and frontend technologies | Currently diving into machine learning with Python
 
 ## About Me
