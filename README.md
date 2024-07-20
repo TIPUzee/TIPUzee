@@ -1,6 +1,6 @@
 # Hi there, I'm Zeeshan! 👋
 
-I'm a passionate developer and a student at [GIMS PMAS Arid Agriculture University](http://www.gims.edu.pk/) Pakistan. I have a strong foundation in backend and frontend technologies, and I am currently diving into the world of machine learning in Python. Below is a summary of my skills, projects, and what I am currently working on.
+A recent graduate at [GIMS PMAS Arid Agriculture University](http://www.gims.edu.pk/) Pakistan | Strong foundation in backend and frontend technologies | Currently diving into machine learning with Python
 
 ## About Me
 I am a dedicated software developer with a keen interest in creating innovative solutions to complex problems. My journey in programming began 4 ago, and I have since developed a diverse skill set in various technologies. I am enthusiastic about learning new tools and technologies to stay at the forefront of the industry.
