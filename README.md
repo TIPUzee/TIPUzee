@@ -47,9 +47,9 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Projects
 
-### 1. AI-Disease Predictor [(hosted on AWS)](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home)
+### 1. AI-Disease Predictor [(hosted on AWS)](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home) 🧬
 
-- Developed an integrated healthcare platform combining AI and medical expertise. 🧬
+- Developed an integrated healthcare platform combining AI and medical expertise. 
 
 - Symptom-based disease prediction and Brain tumor detection and classification through MRI Image analysis using machine learning algorithms.
 
