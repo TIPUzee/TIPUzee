@@ -13,11 +13,11 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Skills
 
-- **Languages & Frameworks:** Python (Flask, Tkinter, Selenium, Numpy, Pandas), C++, JavaScript (jQuery, TypeScript), PHP
-- **Databases:** MongoDB, MSSQL, MySQL
-- **Frontend Technologies:** Angular, Tailwind CSS, Bootstrap
-- **Operating Systems and Platforms:** Linux OS, AWS EC2
-- **Machine Learning:** Currently diving into Machine Learning with Python
+- Python &nbsp; **|** &nbsp; Flask &nbsp; **|** &nbsp; Tkinter &nbsp; **|** &nbsp; Selenium &nbsp; **|** &nbsp; Numpy &nbsp; **|** &nbsp; Pandas &nbsp; **|** &nbsp; C++ &nbsp; **|** &nbsp; JavaScript &nbsp; **|** &nbsp; jQuery &nbsp; **|** &nbsp; TypeScript &nbsp; **|** &nbsp; PHP
+- MongoDB &nbsp; **|** &nbsp; MSSQL &nbsp; **|** &nbsp; MySQL
+- Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; Bootstrap
+- Linux OS &nbsp; **|** &nbsp; AWS EC2
+- Currently diving into Machine Learning with Python
 
 ## Experiences
 
