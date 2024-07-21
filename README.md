@@ -127,4 +127,4 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 I'm diving into machine learning with Python, excited to bring ML innovations into future projects and explore new tech possibilities! 🚀
 
 ## Get in Touch 🤝
-Connect with me on LinkedIn or email me at zshann992@gmail.com. Let's chat and collaborate on exciting projects! 🌟
+Connect with me on LinkedIn at [zshann992](https://www.linkedin.com/in/zshann992) or email me at zshann992@gmail.com. Let's chat and collaborate on exciting projects! 🌟
