@@ -55,6 +55,20 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - I was supported by my teachers throughout university and competed in speed programming contests at both campus and main levels, consistently finishing as a runner-up and enhancing my skills.
 
+- Got 3.85 CGPA out of 4.0 (96%+)
+
+### Govt Zamindar PG College Gujrat
+
+- FSc Pre-Engineering &nbsp; **|** &nbsp; 2018 to 2020 &nbsp; **|** &nbsp; 2 Years
+
+- Got 800 marks out of 1100 (72%)
+
+### Govt. Comprehensive School Gujrat
+
+- Computer Science &nbsp; **|** &nbsp; 2016 to 2018 &nbsp; **|** &nbsp; 2 Years
+
+- Got 910 marks out of 1100 (81%)
+
 ## Projects
 
 #### 1. [AI-Disease Predictor](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home) `(My Final Year Project)`
