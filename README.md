@@ -1,10 +1,25 @@
 # Hi there, I'm Zeeshan! 👋
 ##### A developer sharing his coding adventures ❤️
-Fresh Graduate at [GIMS Arid Agriculture Univeristy](http://www.gims.edu.pk/) Pakistan &nbsp; **|** &nbsp; Frontend and Backend Developer &nbsp; **|** &nbsp; Currently learning Machine Learning
-###### A recent graduate at [GIMS PMAS Arid Agriculture University](http://www.gims.edu.pk/) Pakistan  **|**  Strong foundation in backend and frontend technologies | Currently diving into machine learning with Python
+Fresh Graduate at GIMS Arid Agriculture Univeristy Pakistan &nbsp; **|** &nbsp; Frontend and Backend Developer &nbsp; **|** &nbsp; Currently diving into Machine Learning
 
 ## About Me
-I am a dedicated software developer with a keen interest in creating innovative solutions to complex problems. My journey in programming began 4 ago, and I have since developed a diverse skill set in various technologies. I am enthusiastic about learning new tools and technologies to stay at the forefront of the industry.
+I am Zeeshan Nadeem, a recent graduate in Information Technology (Bacholers) from GIMS PMAS Arid Agriculture University Pakistan. 
+
+I completed a 3-month internship at CyberCilo (Gujrat), working as a Python backend developer on cybersecurity project, and have actively participated in speed programming competitions. 
+
+Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development (Angular, Python, MySQL, MongoDB), Ubuntu, AWS EC2, Payment gateways (Stripe, PayFast), & Machine Learning (Python). 
+
+###### Outside of tech, I enjoy gatherings, listening to others, playing video games, and watching movies.
+
+## Experiences
+
+#### Backend Developer Internee
+
+##### &nbsp;&nbsp; - CyberCilo - A cybersecurity product development company - Internship
+###### &nbsp;&nbsp; - Dec 2022 - 3 months
+###### &nbsp;&nbsp; - Gujrat, Pakistan
+##### &nbsp;&nbsp; - Worked on writing backend for a website unwanted changes detection monitoring project with Python, Flask, Selenium, MongoDB, Linux OS 
+
 
 ## Skills
 - **Languages & Frameworks:** Python, Flask, Selenium, C++, JavaScript, PHP
