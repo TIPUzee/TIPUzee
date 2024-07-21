@@ -23,7 +23,7 @@ Certain skills that I have worked with include Data Structures and Algorithms (C
 ### Frontend and Backend Developer
 &nbsp;&nbsp; - Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Remote Job 
 
-&nbsp;&nbsp; - Oct 2023 &nbsp; **|** &nbsp; Mar 2024 &nbsp; **|** &nbsp; 6 months<br />&nbsp;&nbsp; - Lahore, Pakistan 
+&nbsp;&nbsp; - Oct 2023 &nbsp; **|** &nbsp; 6 months<br />&nbsp;&nbsp; - Lahore, Pakistan 
 
 &nbsp;&nbsp; - Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, and PayFast Payment Gateway.
 
