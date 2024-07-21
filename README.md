@@ -71,7 +71,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Projects
 
-### 1. AI-Disease Predictor [(visit on AWS)](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home)
+### 1. AI-Disease Predictor [(hosted on AWS)](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home)
 
 - Developed an integrated healthcare platform combining AI and medical expertise.
 
@@ -79,13 +79,25 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Doctor-patient interaction with appointment scheduling, communication via WhatsApp, and integrated Stripe payment gateway for booking appointments.
 
-- Python (Flask, Tensorflow, Pytorch) &nbsp; **|** &nbsp; ML Models (EfficientNet B5, ResNet50) &nbsp; **|** &nbsp; Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Stripe for Payments
+- Python (Flask, Tensorflow, Pytorch) &nbsp; **|** &nbsp; ML Models (EfficientNet B5, ResNet50) &nbsp; **|** &nbsp; Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Stripe Payment Gateway
 
-#### 2. Skills Seekho
-I developed the complete frontend and backend for [Skills Seekho](https://www.skillsseekho.com), a skills learning platform for students in Pakistan, while working from home for a company located in Lahore. I handled the server and other related tasks, and integrated the [PayFast payment gateway](https://gopayfast.com/) for students to pay and purchase courses. I also developed APIs for mobile apps to use the same backend server.
+### 2. Skills Seekho [(hosted on cpanel)](https://www.skillsseekho.com)
 
-#### 3. Smart Phone Comparison System
-A comprehensive project using Python, Flask, Selenium, and Bootstrap. It allows users to compare different smartphones based on benchmarks from sites like [AnTuTu](https://www.antutu.com), [Geekbench](https://www.geekbench.com), and [DxOMark](https://www.dxomark.com). The system automatically grabs data from these websites and provides detailed comparisons, helping users decide which phone suits their needs. Users can also prioritize different components like processing power, rear camera quality, selfie camera quality, battery or display etc.
+- Designed and developed a skills learning platform for students in Pakistan.
+
+- Developed full-stack solution with frontend and backend, managed server, integrated PayFast for payments, and created APIs for mobile app integration.
+
+- Figma &nbsp; **|** &nbsp; Python (Flask, Jinja2) &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; JWT &nbsp; **|** &nbsp; PayFast Payment Gateway
+
+### 3. Phone Pulse
+
+- Developed a platform for comparing smartphones based on benchmarks from AnTuTu, Geekbench, and DxOMark.
+
+- Allows users to prioritize components like processing power, camera quality, battery life, and display features to find the best phone for their needs.
+
+- System automatically fetches data from the mentioned platforms and provides the best suggestion to customers.
+
+- Python (Flask, Jinja2) &nbsp; **|** &nbsp; Selenium web driver &nbsp; **|** &nbsp; Bootstrap &nbsp; **|** &nbsp; jQuery &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Wrote Complete Project Documentation
 
 #### 4. Opportunity Hub
 A job-finding web application developed using Python, Flask, and Bootstrap. This platform allows companies to post available jobs, and allows jobseekers to apply on these jobs, and also managing their profiles. This platform also allows admins to upload text files containing questions and multiple-choice questions (MCQs) with correct answers. Users can take tests and earn badges for their profiles, enhancing their job search experience.
