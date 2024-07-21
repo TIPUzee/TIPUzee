@@ -13,7 +13,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Skills
 
-- Python &nbsp; **|** &nbsp; Flask &nbsp; **|** &nbsp; Tkinter &nbsp; **|** &nbsp; Selenium &nbsp; **|** &nbsp; Numpy &nbsp; **|** &nbsp; Pandas &nbsp; **|** &nbsp; C++ &nbsp; **|** &nbsp; JavaScript &nbsp; **|** &nbsp; jQuery &nbsp; **|** &nbsp; TypeScript &nbsp; **|** &nbsp; PHP
+- Python (Flask, Tkinter, Selenium, Numpy, Pandas) &nbsp; **|** &nbsp; C++ &nbsp; **|** &nbsp; JavaScript (jQuery, TypeScript) &nbsp; **|** &nbsp; PHP
 - MongoDB &nbsp; **|** &nbsp; MSSQL &nbsp; **|** &nbsp; MySQL
 - Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; Bootstrap
 - Linux OS &nbsp; **|** &nbsp; AWS EC2
