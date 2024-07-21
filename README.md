@@ -16,9 +16,9 @@ Certain skills that I have worked with include Data Structures and Algorithms (C
 ### Backend Developer Internee
 &nbsp;&nbsp; - CyberCilo - A cybersecurity product development company - Internship
 
-&nbsp;&nbsp; - Dec 2022 - 3 months
+###### &nbsp;&nbsp; - Dec 2022 - 3 months
 
-&nbsp;&nbsp; - Gujrat, Pakistan
+###### &nbsp;&nbsp; - Gujrat, Pakistan
 
 &nbsp;&nbsp; - Worked on developing a website anomaly detection backend with Python, Flask, Selenium, MongoDB, and Linux OS.
 
