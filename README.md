@@ -9,7 +9,7 @@ I completed a 3-month internship at CyberCilo (Gujrat), working as a Python back
 
 Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development (Angular, Python, MySQL, MongoDB), Ubuntu, AWS EC2, Payment gateways (Stripe, PayFast), & Machine Learning (Python). 
 
-###### Outside of tech, I enjoy gatherings, listening to others, playing video games, and watching movies.
+Outside of tech, I enjoy gatherings, listening to others, playing video games, and watching movies.
 
 ## Experiences
 
