@@ -71,13 +71,15 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Projects
 
-#### 1. [AI-Disease Predictor](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home) `(My Final Year Project)`
-An [integrated healthcare platform](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home) aimed at revolutionizing patient care and diagnosis by combining artificial intelligence and medical expertise. Key functionalities include:
-- Symptom-based disease prediction with AI-driven potential diagnoses.
-- Brain tumor detection and classification through MRI analysis using a sophisticated machine learning algorithm.
-- Doctor-patient interaction features, including appointment scheduling and communication through WhatsApp.
-- Comprehensive management tools for administrators to handle patient and doctor databases, appointment tracking, and system analytics.
-- [Stripe](https://stripe.com/) payment gateway for patient's to pay to book appointments with a selected doctor on a chosen time slot.
+### 1. AI-Disease Predictor <a href="http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home" target="_blank">(visit)</a>
+
+- Developed an integrated healthcare platform combining AI and medical expertise.
+
+- Symptom-based disease prediction and Brain tumor detection and classification through MRI Image analysis using machine learning algorithms.
+
+- Doctor-patient interaction with appointment scheduling, communication via WhatsApp, and integrated Stripe payment gateway for booking appointments.
+
+- Python (Flask, Tensorflow, Pytorch) &nbsp; **|** &nbsp; ML Models (EfficientNet B5, ResNet50) &nbsp; **|** &nbsp; Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Stripe for Payments
 
 #### 2. Skills Seekho
 I developed the complete frontend and backend for [Skills Seekho](https://www.skillsseekho.com), a skills learning platform for students in Pakistan, while working from home for a company located in Lahore. I handled the server and other related tasks, and integrated the [PayFast payment gateway](https://gopayfast.com/) for students to pay and purchase courses. I also developed APIs for mobile apps to use the same backend server.
