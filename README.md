@@ -16,7 +16,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 - Python (Flask, Tkinter, Selenium, Numpy, Pandas) &nbsp; **|** &nbsp; C++ &nbsp; **|** &nbsp; JavaScript (jQuery, TypeScript) &nbsp; **|** &nbsp; PHP
 - MongoDB &nbsp; **|** &nbsp; MSSQL &nbsp; **|** &nbsp; MySQL
 - Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; Bootstrap
-- Linux OS &nbsp; **|** &nbsp; AWS EC2
+- Git, Postman, Linux OS &nbsp; **|** &nbsp; AWS EC2
 - Currently diving into Machine Learning with Python
 
 ## Experiences
@@ -27,7 +27,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Dec 2022 &nbsp; **|** &nbsp; 3 months &nbsp; **|** &nbsp; Gujrat, Pakistan 
 
-- Worked on developing a website anomaly detection backend with Python, Flask, Selenium, MongoDB, Git, Linux OS, and trello.
+- Worked on developing a website anomaly detection system's backend with Python, Flask, Selenium, MongoDB, Git, Postman, Linux OS, and trello.
 
 ### Frontend and Backend Developer
 
@@ -35,7 +35,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Oct 2023 &nbsp; **|** &nbsp; 6 months &nbsp; **|** &nbsp; Lahore, Pakistan 
 
-- Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, Git, and PayFast Payment Gateway.
+- Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, Git, Postman, and PayFast Payment Gateway.
 
 ### Freelance Developer
 
@@ -79,7 +79,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Doctor-patient interaction with appointment scheduling, communication via WhatsApp, and integrated Stripe payment gateway for booking appointments.
 
-- Python (Flask, Tensorflow, Pytorch) &nbsp; **|** &nbsp; ML Models (EfficientNet B5, ResNet50) &nbsp; **|** &nbsp; Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Stripe Payment Gateway
+- Python (Flask, Tensorflow, Pytorch) &nbsp; **|** &nbsp; ML Models (EfficientNet B5, ResNet50) &nbsp; **|** &nbsp; Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Postman &nbsp; **|** &nbsp; Stripe Payment Gateway
 
 ### 2. Skills Seekho [(hosted on cpanel)](https://www.skillsseekho.com)
 
@@ -87,7 +87,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Developed full-stack solution with frontend and backend, managed server, integrated PayFast for payments, and created APIs for mobile app integration.
 
-- Figma &nbsp; **|** &nbsp; Python (Flask, Jinja2) &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; JWT &nbsp; **|** &nbsp; PayFast Payment Gateway
+- Figma &nbsp; **|** &nbsp; Python (Flask, Jinja2) &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; JWT &nbsp; **|** &nbsp; Postman &nbsp; **|** &nbsp; PayFast Payment Gateway
 
 ### 3. Phone Pulse
 
