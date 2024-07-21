@@ -20,7 +20,7 @@ Certain skills that I have worked with include Data Structures and Algorithms (C
 
 &nbsp;&nbsp; - Gujrat, Pakistan
 
-&nbsp;&nbsp; - Worked on writing backend for a website unwanted changes detection monitoring project with Python, Flask, Selenium, MongoDB, Linux OS 
+&nbsp;&nbsp; - Worked on developing a website anomaly detection backend with Python, Flask, Selenium, MongoDB, and Linux OS.
 
 
 ## Skills
