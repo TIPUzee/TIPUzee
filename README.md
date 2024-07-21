@@ -71,7 +71,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Projects
 
-### 1. AI-Disease Predictor <a href="http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home" target="_blank">(visit)</a>
+### 1. AI-Disease Predictor <a href="http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home" target="_blank" style="font-size: 10px">(visit on AWS)</a>
 
 - Developed an integrated healthcare platform combining AI and medical expertise.
 
