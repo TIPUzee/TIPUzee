@@ -33,7 +33,7 @@ Certain skills that I have worked with include Data Structures and Algorithms (C
 
 &nbsp;&nbsp; - Mar 2023 &nbsp; **|** &nbsp; 9 to 12 months<br />&nbsp;&nbsp; - Various Locations 
 
-&nbsp;&nbsp; - Completed assignments focusing on complex problem-solving, web development, and cloud deployment tasks using C++, Python, AWS EC2, and JavaScript.
+&nbsp;&nbsp; - Done assignments in problem-solving and web development, and cloud deployment tasks using C++, Python, Tkinter, Javascript, and AWS EC2.
 
 ## Skills
 - **Languages & Frameworks:** Python, Flask, Selenium, C++, JavaScript, PHP
