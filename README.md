@@ -1,5 +1,5 @@
 # Hi there, I'm Zeeshan! 👋
-##### A developer sharing his coding adventures ❤️
+#### A developer sharing his coding adventures ❤️
 Fresh Graduate at GIMS Arid Agriculture Univeristy Pakistan &nbsp; **|** &nbsp; Frontend and Backend Developer &nbsp; **|** &nbsp; Currently diving into Machine Learning
 
 ## About Me
@@ -22,32 +22,38 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 ## Experiences
 
 ### Backend Developer Internee
-&nbsp;&nbsp; - CyberCilo &nbsp; **|** &nbsp; A cybersecurity product development company &nbsp; **|** &nbsp; Internship 
 
-&nbsp;&nbsp; - Dec 2022 &nbsp; **|** &nbsp; 3 months<br />&nbsp;&nbsp; - Gujrat, Pakistan 
+- CyberCilo &nbsp; **|** &nbsp; A cybersecurity product development company &nbsp; **|** &nbsp; Internship 
 
-&nbsp;&nbsp; - Worked on developing a website anomaly detection backend with Python, Flask, Selenium, MongoDB, Git, Linux OS, and trello.
+- Dec 2022 &nbsp; **|** &nbsp; 3 months &nbsp; **|** &nbsp; Gujrat, Pakistan 
+
+- Worked on developing a website anomaly detection backend with Python, Flask, Selenium, MongoDB, Git, Linux OS, and trello.
 
 ### Frontend and Backend Developer
-&nbsp;&nbsp; - Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Remote Job 
 
-&nbsp;&nbsp; - Oct 2023 &nbsp; **|** &nbsp; 6 months<br />&nbsp;&nbsp; - Lahore, Pakistan 
+- Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Remote Job 
 
-&nbsp;&nbsp; - Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, Git, and PayFast Payment Gateway.
+- Oct 2023 &nbsp; **|** &nbsp; 6 months &nbsp; **|** &nbsp; Lahore, Pakistan 
+
+- Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, Git, and PayFast Payment Gateway.
 
 ### Freelance Developer
 
-&nbsp;&nbsp; - Various Clients &nbsp; **|** &nbsp; Freelance Projects &nbsp; **|** &nbsp; Remote Work
+- Various Clients &nbsp; **|** &nbsp; Freelance Projects &nbsp; **|** &nbsp; Remote Work
 
-&nbsp;&nbsp; - Mar 2023 &nbsp; **|** &nbsp; 9 to 12 months<br />&nbsp;&nbsp; - Various Locations 
+- Mar 2023 &nbsp; **|** &nbsp; 9 to 12 months &nbsp; **|** &nbsp; Various Locations 
 
-&nbsp;&nbsp; - Done assignments in problem-solving and web development tasks using C++, Python, Tkinter, Javascript, and AWS EC2.
+- Done assignments in problem-solving and web development tasks using C++, Python, Tkinter, Javascript, and AWS EC2.
 
 ## Education
-- **Degree:** Bachelor of Science in Information Technology
-- **Institution:** GIMS PMAS Arid Agriculture University Pakistan
-- **Year:** Expected Graduation: 2024
-- **Relevant Coursework:** Machine Learning, Data Structures, Algorithms, Web Development
+
+### GIMS Arid Agriculture University Gujrat
+
+- Information Technology (BS) &nbsp; **|** &nbsp; 2020 to 2024 &nbsp; **|** &nbsp; 4 Years
+
+- University has been the most important experience for me. University provided me with ample opportunities to explore various domains and a talented peer group that never failed to inspire me.
+
+- I was supported by my teachers throughout university and competed in speed programming contests at both campus and main levels, consistently finishing as a runner-up and enhancing my skills.
 
 ## Projects
 
