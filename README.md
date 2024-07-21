@@ -9,7 +9,7 @@ I completed a 3-month internship at CyberCilo (Gujrat), working as a Python back
 
 Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development (Angular, Python, MySQL, MongoDB), Ubuntu, AWS EC2, Payment gateways (Stripe, PayFast), & Machine Learning (Python). 
 
-Outside of tech, I enjoy gatherings, listening to others, playing video games, and watching movies.
+Outside of tech, I enjoy gatherings, listening to others, playing video games, and watching movies. 🎮🎬
 
 ## Skills
 
@@ -17,7 +17,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 - MongoDB &nbsp; **|** &nbsp; MSSQL &nbsp; **|** &nbsp; MySQL
 - Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; Bootstrap
 - Git, Postman, Linux OS &nbsp; **|** &nbsp; AWS EC2
-- Currently diving into Machine Learning with Python
+- Currently diving into Machine Learning with Python 🌟
 
 ## Experiences
 
@@ -49,7 +49,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ### 1. AI-Disease Predictor [(hosted on AWS)](http://ec2-18-117-234-244.us-east-2.compute.amazonaws.com/home)
 
-- Developed an integrated healthcare platform combining AI and medical expertise.
+- Developed an integrated healthcare platform combining AI and medical expertise. 🧬
 
 - Symptom-based disease prediction and Brain tumor detection and classification through MRI Image analysis using machine learning algorithms.
 
@@ -57,7 +57,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Python (Flask, Tensorflow, Pytorch) &nbsp; **|** &nbsp; ML Models (EfficientNet B5, ResNet50) &nbsp; **|** &nbsp; Angular &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Postman &nbsp; **|** &nbsp; Stripe Payment Gateway
 
-### 2. Skills Seekho [(hosted on cpanel)](https://www.skillsseekho.com)
+### 2. Skills Seekho [(hosted on cpanel)](https://www.skillsseekho.com) 📚
 
 - Designed and developed a skills learning platform for students in Pakistan.
 
@@ -65,7 +65,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Figma &nbsp; **|** &nbsp; Python (Flask, Jinja2) &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; JWT &nbsp; **|** &nbsp; Postman &nbsp; **|** &nbsp; PayFast Payment Gateway
 
-### 3. Phone Pulse
+### 3. Phone Pulse 📱
 
 - Developed a platform for comparing smartphones based on benchmarks from AnTuTu, Geekbench, and DxOMark.
 
@@ -75,13 +75,13 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Python (Flask, Jinja2) &nbsp; **|** &nbsp; Selenium web driver &nbsp; **|** &nbsp; Bootstrap &nbsp; **|** &nbsp; jQuery &nbsp; **|** &nbsp; MySQL &nbsp; **|** &nbsp; Wrote Complete Project Documentation
 
-### 4. Artian Arcade
+### 4. Artian Arcade 🎨
 
 - Created a platform for posting, bidding, buying, and selling artworks.
 
 - Next.js &nbsp; **|** &nbsp; Shadcn UI &nbsp; **|** &nbsp; Tailwind CSS &nbsp; **|** &nbsp; PHP &nbsp; **|** &nbsp; MySQL
 
-### 5. Automated Timetable Generator
+### 5. Automated Timetable Generator 🗓️
 
 - Developed a C++ tool for generating optimized timetables for a university (in early days of my programming journey).
 
@@ -91,7 +91,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Education
 
-### GIMS Arid Agriculture University Gujrat
+### GIMS Arid Agriculture University Gujrat 🎓
 
 - Information Technology (BS) &nbsp; **|** &nbsp; 2020 to 2024 &nbsp; **|** &nbsp; 4 Years
 
@@ -101,13 +101,13 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Got 3.85 CGPA out of 4.0 (96%+)
 
-### Govt Zamindar PG College Gujrat
+### Govt Zamindar PG College Gujrat 
 
 - FSc Pre-Engineering &nbsp; **|** &nbsp; 2018 to 2020 &nbsp; **|** &nbsp; 2 Years
 
 - Got 800 marks out of 1100 (72%)
 
-### Govt. Comprehensive School Gujrat
+### Govt. Comprehensive School Gujrat 
 
 - Computer Science &nbsp; **|** &nbsp; 2016 to 2018 &nbsp; **|** &nbsp; 2 Years
 
@@ -115,11 +115,11 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Competitions
 
-### GIMS PMAS Arid Agriculture University, Gujrat, 2021
+### GIMS PMAS Arid Agriculture University, Gujrat, 2021 🏆
 
 - Secured runner-up in a speed programming contest against students with 3-4 years of experience, with only one year of experience.
 
-### PMAS Arid Agriculture University, Rawalpindi, 2022
+### PMAS Arid Agriculture University, Rawalpindi, 2022 🏆
 
 - Represented my university at the main campus in a speed programming competition, finishing as the runner-up among top students from various campuses.
 
