@@ -14,7 +14,7 @@ Certain skills that I have worked with include Data Structures and Algorithms (C
 ## Experiences
 
 ### Backend Developer Internee
-&nbsp;&nbsp; - CyberCilo - A cybersecurity product development company - Internship
+&nbsp;&nbsp; - CyberCilo - A cybersecurity product development company - <br /> Internship
 
 &nbsp;&nbsp; - Dec 2022 - 3 months
 
