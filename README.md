@@ -1,5 +1,5 @@
 # Hi there, I'm Zeeshan! 👋
-#### A developer sharing his coding adventures ❤️
+### A developer sharing his coding adventures ❤️
 Fresh Graduate at GIMS Arid Agriculture Univeristy Pakistan &nbsp; **|** &nbsp; Frontend and Backend Developer &nbsp; **|** &nbsp; Currently diving into Machine Learning
 
 ## About Me
