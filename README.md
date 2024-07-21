@@ -14,12 +14,18 @@ Certain skills that I have worked with include Data Structures and Algorithms (C
 ## Experiences
 
 ### Backend Developer Internee
-&nbsp;&nbsp; - CyberCilo - A cybersecurity product development company - Internship 
+&nbsp;&nbsp; - CyberCilo &nbsp; **|** &nbsp; A cybersecurity product development company &nbsp; **|** &nbsp; Internship 
 
-&nbsp;&nbsp; - Dec 2022 - 3 months<br />&nbsp;&nbsp; - Gujrat, Pakistan 
+&nbsp;&nbsp; - Dec 2022 &nbsp; **|** &nbsp; 3 months<br />&nbsp;&nbsp; - Gujrat, Pakistan 
 
 &nbsp;&nbsp; - Worked on developing a website anomaly detection backend with Python, Flask, Selenium, MongoDB, and Linux OS.
 
+### Frontend and Backend Developer
+&nbsp;&nbsp; - Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Remote Job 
+
+&nbsp;&nbsp; - Oct 2023 &nbsp; **|** &nbsp; Mar 2024 &nbsp; **|** &nbsp; 6 months<br />&nbsp;&nbsp; - Lahore, Pakistan 
+
+&nbsp;&nbsp; - Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, and PayFast Payment Gateway.
 
 ## Skills
 - **Languages & Frameworks:** Python, Flask, Selenium, C++, JavaScript, PHP
