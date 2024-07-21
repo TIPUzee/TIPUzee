@@ -11,6 +11,14 @@ Certain skills that I have worked with include Data Structures and Algorithms (C
 
 Outside of tech, I enjoy gatherings, listening to others, playing video games, and watching movies.
 
+## Skills
+
+- **Languages & Frameworks:** Python (Flask, Tkinter, Selenium, Numpy, Pandas), C++, JavaScript (jQuery, TypeScript), PHP
+- **Databases:** MongoDB, MSSQL, MySQL
+- **Frontend Technologies:** Tailwind CSS, Bootstrap, Angular
+- **Operating Systems and Platforms:** Linux OS, AWS EC2
+- **Machine Learning:** Currently diving into Machine Learning Python
+
 ## Experiences
 
 ### Backend Developer Internee
@@ -34,14 +42,6 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 &nbsp;&nbsp; - Mar 2023 &nbsp; **|** &nbsp; 9 to 12 months<br />&nbsp;&nbsp; - Various Locations 
 
 &nbsp;&nbsp; - Done assignments in problem-solving and web development tasks using C++, Python, Tkinter, Javascript, and AWS EC2.
-
-## Skills
-- **Languages & Frameworks:** Python, Flask, Selenium, C++, JavaScript, PHP
-- **Databases:** MongoDB, MySQL
-- **Frontend Technologies:** Tailwind CSS, Bootstrap, Angular, jQuery
-- **Operating Systems:** Strong 1 year of experience in Linux Ubuntu
-- **Platforms:** AWS EC2
-- **Machine Learning:** Currently learning and working on ML projects in Python
 
 ## Education
 - **Degree:** Bachelor of Science in Information Technology
