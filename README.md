@@ -17,7 +17,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 - **Databases:** MongoDB, MSSQL, MySQL
 - **Frontend Technologies:** Angular, Tailwind CSS, Bootstrap
 - **Operating Systems and Platforms:** Linux OS, AWS EC2
-- **Machine Learning:** Currently diving into Machine Learning Python
+- **Machine Learning:** Currently diving into Machine Learning with Python
 
 ## Experiences
 
