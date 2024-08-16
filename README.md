@@ -119,7 +119,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - Secured runner-up in a speed programming contest against students with 3-4 years of experience, with only one year of experience.
 
-### PMAS Arid Agriculture University, Rawalpindi, 2022 🏆
+### PMAS Arid Agriculture University, Rawalpindi, 2023 🏆
 
 - Represented my university at the main campus in a speed programming competition, finishing as the runner-up among top students from various campuses.
 
