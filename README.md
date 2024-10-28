@@ -21,21 +21,29 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Experiences
 
-### Backend Developer Internee
-
-- CyberCilo &nbsp; **|** &nbsp; A cybersecurity product development company &nbsp; **|** &nbsp; Internship 
-
-- Dec 2022 &nbsp; **|** &nbsp; 3 months &nbsp; **|** &nbsp; Gujrat, Pakistan 
-
-- Worked on developing a website anomaly detection system's backend with Python, Flask, Selenium, MongoDB, Git, Postman, Linux OS, and trello.
-
 ### Frontend and Backend Developer
 
 - Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Remote Job 
 
-- Oct 2023 &nbsp; **|** &nbsp; 6 months &nbsp; **|** &nbsp; Lahore, Pakistan 
+- March 2024 &nbsp; **|** &nbsp; 6 months &nbsp; **|** &nbsp; Lahore, Pakistan 
+
+- Hire after internship. I managed frontend and backend development, created APIs, guided new developers and non-technical stakeholders. 
+
+### Backend Developer Intern
+
+- Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Internship
+
+- Dec 2023 &nbsp; **|** &nbsp; 3 months &nbsp; **|** &nbsp; Lahore, Pakistan 
 
 - Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, Git, Postman, and PayFast Payment Gateway.
+
+### Backend Developer Intern
+
+- Cyber Silo &nbsp; **|** &nbsp; A cybersecurity product development company &nbsp; **|** &nbsp; Internship 
+
+- Dec 2022 &nbsp; **|** &nbsp; 3 months &nbsp; **|** &nbsp; Gujrat, Pakistan 
+
+- Worked on developing a website anomaly detection system's backend with Python, Flask, Selenium, MongoDB, Git, Postman, Linux OS, and trello.
 
 ### Freelance Developer
 
@@ -99,7 +107,7 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 - I was supported by my teachers throughout university and competed in speed programming contests at both campus and main levels, consistently finishing as a runner-up and enhancing my skills.
 
-- Got 3.85 CGPA out of 4.0 (96%+)
+- Got 3.85 CGPA out of 4.0
 
 ### Govt Zamindar PG College Gujrat 
 
