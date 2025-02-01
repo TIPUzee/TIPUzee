@@ -21,14 +21,6 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 
 ## Experiences
 
-### Frontend and Backend Developer
-
-- Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Remote Job 
-
-- March 2024 &nbsp; **|** &nbsp; 6 months &nbsp; **|** &nbsp; Lahore, Pakistan 
-
-- Hire after internship. I managed frontend and backend development, created APIs, guided new developers and non-technical stakeholders. 
-
 ### Backend Developer Intern
 
 - Skills Seekho &nbsp; **|** &nbsp; A skills learning platform &nbsp; **|** &nbsp; Internship
@@ -36,14 +28,6 @@ Outside of tech, I enjoy gatherings, listening to others, playing video games, a
 - Dec 2023 &nbsp; **|** &nbsp; 3 months &nbsp; **|** &nbsp; Lahore, Pakistan 
 
 - Worked on designing and developing a learning platform with Figma, Python, Flask, Jinja2, MySQL, Git, Postman, and PayFast Payment Gateway.
-
-### Backend Developer Intern
-
-- Cyber Silo &nbsp; **|** &nbsp; A cybersecurity product development company &nbsp; **|** &nbsp; Internship 
-
-- Dec 2022 &nbsp; **|** &nbsp; 3 months &nbsp; **|** &nbsp; Gujrat, Pakistan 
-
-- Worked on developing a website anomaly detection system's backend with Python, Flask, Selenium, MongoDB, Git, Postman, Linux OS, and trello.
 
 ### Freelance Developer
 
